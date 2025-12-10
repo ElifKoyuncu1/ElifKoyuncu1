@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="pixel-neon.gif"/>
+  <img src="pixels-neon.gif"/>
 </p>
 
 <h1 align="center">👋 Merhaba! Ben Elif Koyuncu</h1>
