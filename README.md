@@ -62,7 +62,7 @@ Bunun yanında blockchain teknolojisini keşfederek akıllı kontratlar, dağıt
 </p>
 
 
-⭐ **If you like what you see, don't forget to star my repos!**  
+⭐ **Beğendiysen repolarımı yıldızlamayı unutma!**  
 
 
 <!---
