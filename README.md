@@ -61,7 +61,6 @@ Bunun yanında blockchain teknolojisini keşfederek akıllı kontratlar, dağıt
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs/main/Aesthetic/10.gif" width="400"/>
 </p>
 
----
 
 ⭐ **If you like what you see, don't forget to star my repos!**  
 
