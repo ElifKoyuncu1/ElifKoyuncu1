@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs/main/Aesthetic/10.gif"/>
+  <img src="pixel-neon.gif"/>
 </p>
 
 <h1 align="center">👋 Merhaba! Ben Elif Koyuncu</h1>
