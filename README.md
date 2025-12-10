@@ -21,7 +21,7 @@ Bunun yanında blockchain teknolojisini keşfederek akıllı kontratlar, dağıt
 
 ---
 
-## 🛠️ **Tech Stack / Kullandığım Teknolojiler**
+## 🛠️ **Kullandığım Teknolojiler**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,html,css,js,php,mysql,git,github,vscode,figma" />
@@ -35,7 +35,7 @@ Bunun yanında blockchain teknolojisini keşfederek akıllı kontratlar, dağıt
 
 ---
 
-## 📌 **Featured Projects / Öne Çıkan Projeler**
+## 📌 **Öne Çıkan Projeler**
 
 - 🧠 **NLP Project** – Amazon yorumlarından öneri çıkarma  
 - 🧩 **Web Interface Design** – MHRS sistemi için geliştirilmiş tasarım ve özellikler  
@@ -45,7 +45,7 @@ Bunun yanında blockchain teknolojisini keşfederek akıllı kontratlar, dağıt
 
 ---
 
-## 📫 **Contact / İletişim**
+## 📫 **İletişim**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/elif-koyuncu-208717290/">
