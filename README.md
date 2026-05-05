@@ -24,7 +24,7 @@ Bunun yanında blockchain teknolojisini keşfederek akıllı kontratlar, dağıt
 ## 🛠️ **Kullandığım Teknolojiler**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,php,mysql,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,php,mysql,git,github,vscode,canva,C#" />
 </p>
 
 ---
