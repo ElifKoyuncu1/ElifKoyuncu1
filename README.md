@@ -28,8 +28,8 @@ Bunun yanında blockchain teknolojisini keşfederek akıllı kontratlar, dağıt
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/canva.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftsqlserver.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/canva.svg" height="40" color="white"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftsqlserver.svg" height="40" color="white"/>
 </p>
 
 ---
